@@ -66,7 +66,7 @@ pip install -r requirements.txt
 
 ## About Mike
 
-Hi there! I'm a creative learning asnd development professional branching into data science and analytics. My background in graphic design, education and civil service shapes how I approach problem-solving: making data-derived actionable insights clear for public good.
+Hi there! I'm a creative learning and development professional branching into data science and analytics. My background in graphic design, education and civil service shapes how I approach problem-solving: making data-derived actionable insights clear for public good.
 
 - Portfolio: [mikeee.co](https://www.mikeee.co)
 - GitHub: [@michaelee90](https://github.com/michaelee90)
