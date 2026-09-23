@@ -1,6 +1,6 @@
 # Mike's Data Science & Artificial Intelligence Portfolio
 
-A repository of data science projects analysing traffic congestion patterns, predicting employee engagement strategies, triaging social media toxicity via sentiment analysis, and modelling title book behaviour in the publishing industry. I am a learning and development and creative professional, with a BFA(Graphiic Design) and PGDE, with advanced skills in data science and AI. These projects reflect my technical proficiency in Python and fluency with data visualisation, as well as my inquiry into real-world systems and datasets. 
+A repository of data science projects analysing traffic congestion patterns, predicting employee engagement strategies, triaging social media toxicity via sentiment analysis, and modelling title book behaviour in the publishing industry. I am a learning and development and creative professional, with a BFA(Graphic Design) and PGDE, with advanced skills in data science and AI. These projects reflect my technical proficiency in Python and fluency with data visualisation, as well as my inquiry into real-world systems and datasets. 
 
 <i>Many thanks to Dr Chaitanya Rao, Institute of Data, for his validation of my skills and expertise reflected through these projects.</i>
 
