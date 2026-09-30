@@ -30,9 +30,9 @@ Engineered an end-to-end NLP pipeline classifying toxic comments from the `googl
 ---
 
 ### [Project 4 — Modelling Book Title Revenue and Lifecycle](./4_modelling-publishing-title-behaviour/)
-**Time Series · Decay Modelling · ML Regression · Real-World Client Engagement**
+**Time Series Forecasting · Decay Modelling · Machine Learning · Live Client Engagement**
 
-Architected a predictive modelling pipeline analysing a 180-month invoice register (94,872 lines) across three research tracks: demand mix, title lifecycle decay, and revenue exposure, in collaboration with a client. 
+Turned a 15-year publishing invoice register (94,872 lines) from a client, anonymised as Company X, into a single verified data contract, then used it to answer four business questions: demand mix, title lifecycle decay, revenue exposure, and whether monthly demand can be forecast better than a seasonal baseline. 
 
 ---
 
